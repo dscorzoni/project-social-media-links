@@ -32,8 +32,8 @@ Mobile
 
 ### Links
 
--   Solution URL: [Github Pages](https://dscorzoni.github.io/project-social-media-links)
--   Live Site URL: [Github](https://github.com/dscorzoni/project-social-media-links)
+-   Solution URL: [Github](https://github.com/dscorzoni/project-social-media-links)
+-   Live Site URL: [Github Pages](https://dscorzoni.github.io/project-social-media-links)
 
 ## My process
 
