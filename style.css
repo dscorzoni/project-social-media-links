@@ -100,3 +100,8 @@ a:hover {
     background-color: var(--green);;
 }
 
+.bluesky-icon {
+    width: 17.5px;
+    height: 15px;
+}
+
