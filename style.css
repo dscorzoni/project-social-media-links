@@ -105,3 +105,9 @@ a:hover {
     height: 15px;
 }
 
+.bluesky-icon:hover > path {
+    fill: var(--off-black);
+    color: var(--off-black);
+    pointer-events: bounding-box;
+}
+
